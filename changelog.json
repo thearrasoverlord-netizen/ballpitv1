@@ -1,10 +1,11 @@
 {
   "version": "1.4",
-  "date": "2026-05-09",
-  "description": "The new update arrived from going to buy milk guys :D",
-
+  "title": "New update released!",
+  "message": "Hey everyone! Here's the new update notes I left here :D",
   "changes": [
-    "- Improved physics",
-    "- Fixed bugs"
-  ]
+    "Added changelogs.",
+    "Bug fixes",
+    "Small tweaks"
+  ],
+  "footer": "prlly soon im going to add even more parameters, ok bye."
 }
