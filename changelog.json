@@ -1,7 +1,7 @@
 {
   "version": "1.4",
   "title": "New update released!",
-  "message": "Hey everyone! Here's the new update notes I left here :D",
+  "header": "Hey everyone! Here's the new update notes I left here :D",
   "changes": [
     "Added changelogs.",
     "Bug fixes",
