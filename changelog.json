@@ -1,11 +1,12 @@
 {
-  "version": "1.4",
-  "title": "New update released!",
-  "header": "Hey everyone! Here's the new update notes I left here :D",
-  "changes": [
+  "v": "1.4",
+  "t": "New update released!",
+  "h": "Hey everyone! New update 1.4 released!",
+  "c": [
     "Added changelogs.",
     "Bug fixes",
-    "Small tweaks"
+    "Small tweaks",
+    "And more"
   ],
-  "footer": "prlly soon im going to add even more parameters, ok bye."
+  "f": "prlly soon im going to add even more parameters, ok bye."
 }
